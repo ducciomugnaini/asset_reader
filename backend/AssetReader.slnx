@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="AssetReader.Api/AssetReader.Api.csproj" />
+  <Project Path="AssetReader.Application/AssetReader.Application.csproj" />
+  <Project Path="AssetReader.Domain/AssetReader.Domain.csproj" />
+  <Project Path="AssetReader.Infrastructure/AssetReader.Infrastructure.csproj" />
+  <Project Path="AssetReader.Tests/AssetReader.Tests.csproj" />
+</Solution>

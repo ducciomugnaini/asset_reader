@@ -1,0 +1,18 @@
+{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "http": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": false,
+      "applicationUrl": "http://localhost:5072",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "BORSA_ITALIANA_BASE_URL": "https://grafici.borsaitaliana.it",
+        "BORSA_ITALIANA_TOKEN": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiItMSIsImV4cCI6NDkwNTU4MzU3MiwiaWF0IjoxNzUxOTgzNTcyLCJhdXRob3JpdGllcyI6W119.d7Eh_LOGqA44BH58HIiPrPIz1SLskVOPj4BRsae05cI",
+        "FRONTEND_ORIGIN": "http://localhost:5173",
+        "PROVIDER_TIMEOUT_SECONDS": "10"
+      }
+    }
+  }
+}
